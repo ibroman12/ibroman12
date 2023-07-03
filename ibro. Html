@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>logo facebook</title>
+</head>
+<style>
+  button{
+    background:;
+    padding: 5px;
+    margin: 3px;
+    border: none;
+    box-shadow: 70px;
+    border-radius: 20px;
+    margin-top: 50px;
+    border: 0px solid lightsteelblue;
+    margin-top: 40px;
+  }
+  h1{
+    margin: auto;
+    padding: 9px;
+    background: ;
+    margin-top: 230px;
+    width: 33px;
+    font-size: 69px;
+    border: none;
+    border-radius: 50px;
+    height: 55px;
+    padding-left: 22px;
+    padding-right: 15px;
+    color: royalblue;
+    border-collapse: collapse;
+    box-shadow: 1px 1px 8px 0px;
+  }
+ .ibro{
+   background: dodgerblue;
+ }
+ .ib{
+   background: dodgerblue;
+ }
+</style>
+<body>
+  <center>
+   <h1>f</h1>
+   <button class="ibro"></button>
+   <button class="ib"></button>
+   <button></button>
+   <button></button>
+   <button></button>
+   </center>
+</body>
+
+</html
